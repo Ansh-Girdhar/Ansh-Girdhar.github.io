@@ -202,7 +202,7 @@ img {
 
 .banner {
   position: relative;
-  display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 50px;
   justify-content: space-between;
