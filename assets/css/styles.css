@@ -587,12 +587,7 @@ textarea{
   .nav__name {
     display: none;
   }
-  .banner {
-    text-align: center;
-    flex-direction: column-reverse; 
-    justify-content: center;
-    
-    }
+  
   
 }
 
