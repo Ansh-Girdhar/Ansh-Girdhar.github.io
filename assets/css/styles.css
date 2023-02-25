@@ -214,7 +214,7 @@ img {
  
 }
 
-@media (width <= 620px) {
+@media (max-width: 880px) {
   .banner {
     text-align: center;
     flex-direction: column-reverse;
