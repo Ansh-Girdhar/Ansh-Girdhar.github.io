@@ -652,7 +652,7 @@ textarea{
     border: 2px solid var(--body-color);
     position:absolute;
     left: 50%;
-    bottom: 20%;
+    top: 75vh;
     border-radius: 50px;
     cursor: pointer;
   }
